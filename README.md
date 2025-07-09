@@ -2,12 +2,11 @@
 
 Identify famous footballers by their eyes and compete against an AI!
 
-
-[▶ Watch Demo ](https://github.com/paudelsamir/guess-footballer-with-eyes/blob/main/record_project1.webm)
-
-
 ## 
 [**Live DEMO**](https://guess-footballer-with-eyes.streamlit.app/)
+
+![Demo Screenshot](https://github.com/paudelsamir/365DaysOfData/blob/main/10-Projects-Based-ML-DL/01-Image-Classification(guess_the_footballer_by_eyes)/day116_demo.png)
+
 
 
 ## Features
